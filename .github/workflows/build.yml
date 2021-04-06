@@ -46,7 +46,10 @@ jobs:
           include: "Nebula/.env"
           
       - name: Lister les dossiers
-        run: ls -l
+        run: |
+          ls -l
+          echo "$GITHUB_WORKSPACE"
+          pwd
           
       - name: Installer Nebula
         working-directory: ./Nebula
