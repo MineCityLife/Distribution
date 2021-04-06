@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "828965581868105808",
+    "smallImageText": "MineCityLifeRP",
+    "smallImageKey": "image0_1_"
   },
   "servers": [
     {
@@ -13,15 +13,15 @@
       "description": "MineCityLifeRP Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "45.140.165.6:26259",
       "minecraftVersion": "1.7.10",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "MineCityLife",
+        "largeImageText": "RolePlay",
+        "largeImageKey": "image0_1_"
       },
-      "mainServer": false,
-      "autoconnect": false,
+      "mainServer": true,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:forge:1.7.10-10.13.4.1614-1.7.10:universal",
@@ -204,6 +204,270 @@
               }
             }
           ]
+        },
+        {
+          "id": "Apex_Pack.zip",
+          "name": "Apex_Pack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 12087953,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Apex_Pack.zip",
+            "MD5": "67341d7138e0c34c71fc920051355196",
+            "path": "Flan/Apex_Pack.zip"
+          }
+        },
+        {
+          "id": "CYLRP-Content Pack-1.7.10-4.10.0.jar",
+          "name": "CYLRP-Content Pack-1.7.10-4.10.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 15936628,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/CYLRP-Content%20Pack-1.7.10-4.10.0.jar",
+            "MD5": "d3662ff0799f92603a4b09600e7b1d6f",
+            "path": "Flan/CYLRP-Content Pack-1.7.10-4.10.0.jar"
+          }
+        },
+        {
+          "id": "Cocos Civil Pack.jar",
+          "name": "Cocos Civil Pack.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2846445,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Cocos%20Civil%20Pack.jar",
+            "MD5": "bf4ba42b4f99ddbb9541726b08db3728",
+            "path": "Flan/Cocos Civil Pack.jar"
+          }
+        },
+        {
+          "id": "Gravier_Pack.zip",
+          "name": "Gravier_Pack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 10302025,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Gravier_Pack.zip",
+            "MD5": "3c6d5e61b2a9f9c2db2e5f9380d3de86",
+            "path": "Flan/Gravier_Pack.zip"
+          }
+        },
+        {
+          "id": "Greylight by DerpiWolf-Content Pack-1.7.10-4.10.0.jar",
+          "name": "Greylight by DerpiWolf-Content Pack-1.7.10-4.10.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2771943,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Greylight%20by%20DerpiWolf-Content%20Pack-1.7.10-4.10.0.jar",
+            "MD5": "b801441a06f6f4d415b45daa082e316a",
+            "path": "Flan/Greylight by DerpiWolf-Content Pack-1.7.10-4.10.0.jar"
+          }
+        },
+        {
+          "id": "Machetemen Arms Pack Mid-.45 Part II.jar",
+          "name": "Machetemen Arms Pack Mid-.45 Part II.jar",
+          "type": "File",
+          "artifact": {
+            "size": 10281161,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Machetemen%20Arms%20Pack%20Mid-.45%20Part%20II.jar",
+            "MD5": "e1f1807d93d2025cced5b9e85b7e31d8",
+            "path": "Flan/Machetemen Arms Pack Mid-.45 Part II.jar"
+          }
+        },
+        {
+          "id": "Modern Warfare-Content Pack-1.7.10-4.8.0.jar",
+          "name": "Modern Warfare-Content Pack-1.7.10-4.8.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3493259,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Modern%20Warfare-Content%20Pack-1.7.10-4.8.0.jar",
+            "MD5": "c3197abd6d3a927319e0dc36409beb90",
+            "path": "Flan/Modern Warfare-Content Pack-1.7.10-4.8.0.jar"
+          }
+        },
+        {
+          "id": "Motard.zip",
+          "name": "Motard.zip",
+          "type": "File",
+          "artifact": {
+            "size": 5721475,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Motard.zip",
+            "MD5": "81ff1dd9c6f3ec26da50a9a26f62570f",
+            "path": "Flan/Motard.zip"
+          }
+        },
+        {
+          "id": "PackTenueCYLRP(Fymou).zip",
+          "name": "PackTenueCYLRP(Fymou).zip",
+          "type": "File",
+          "artifact": {
+            "size": 39585,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/PackTenueCYLRP(Fymou).zip",
+            "MD5": "d2157143bdbd075600a76e42fba731c5",
+            "path": "Flan/PackTenueCYLRP(Fymou).zip"
+          }
+        },
+        {
+          "id": "Plume-Pack.jar",
+          "name": "Plume-Pack.jar",
+          "type": "File",
+          "artifact": {
+            "size": 27446229,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Plume-Pack.jar",
+            "MD5": "e5efdd347e685294aa53cc2f2e234d9e",
+            "path": "Flan/Plume-Pack.jar"
+          }
+        },
+        {
+          "id": "Required Pack 1.0.0.jar",
+          "name": "Required Pack 1.0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2074358,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Required%20Pack%201.0.0.jar",
+            "MD5": "098a7f9d6d32c8178a96de512b12d911",
+            "path": "Flan/Required Pack 1.0.0.jar"
+          }
+        },
+        {
+          "id": "Simple Parts-Content Pack-1.7.10-4.8.0.jar",
+          "name": "Simple Parts-Content Pack-1.7.10-4.8.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 148192,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Simple%20Parts-Content%20Pack-1.7.10-4.8.0.jar",
+            "MD5": "aff3c719760e0acfa700619fc1328f60",
+            "path": "Flan/Simple Parts-Content Pack-1.7.10-4.8.0.jar"
+          }
+        },
+        {
+          "id": "TF51Basic-Content Pack-1.7.10-1.0.jar",
+          "name": "TF51Basic-Content Pack-1.7.10-1.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 9410426,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/TF51Basic-Content%20Pack-1.7.10-1.0.jar",
+            "MD5": "a17d236a7c85ef9bdb56234600c7dedd",
+            "path": "Flan/TF51Basic-Content Pack-1.7.10-1.0.jar"
+          }
+        },
+        {
+          "id": "TigerPack Police Nationale V2.zip",
+          "name": "TigerPack Police Nationale V2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 40834422,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/TigerPack%20Police%20Nationale%20V2.zip",
+            "MD5": "a34bc997697fd3da796cfcf0a17549d9",
+            "path": "Flan/TigerPack Police Nationale V2.zip"
+          }
+        },
+        {
+          "id": "Tigre Pack Gravier Version 150 000.jar",
+          "name": "Tigre Pack Gravier Version 150 000.jar",
+          "type": "File",
+          "artifact": {
+            "size": 91242802,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Tigre%20Pack%20Gravier%20Version%20150%20000.jar",
+            "MD5": "816b8de989ba5561b31bced0cf3de82c",
+            "path": "Flan/Tigre Pack Gravier Version 150 000.jar"
+          }
+        },
+        {
+          "id": "Tigre Pack Renault GBC 180.zip",
+          "name": "Tigre Pack Renault GBC 180.zip",
+          "type": "File",
+          "artifact": {
+            "size": 11414018,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Tigre%20Pack%20Renault%20GBC%20180.zip",
+            "MD5": "5adcc264eb781aadc47d7456baf8bd72",
+            "path": "Flan/Tigre Pack Renault GBC 180.zip"
+          }
+        },
+        {
+          "id": "Tigre_Pack_KarmaOwner.zip",
+          "name": "Tigre_Pack_KarmaOwner.zip",
+          "type": "File",
+          "artifact": {
+            "size": 20978338,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Tigre_Pack_KarmaOwner.zip",
+            "MD5": "dbe09b210713ca1bf7212eab74dff12f",
+            "path": "Flan/Tigre_Pack_KarmaOwner.zip"
+          }
+        },
+        {
+          "id": "Tigre_Pack_Skoda_Karoq.jar",
+          "name": "Tigre_Pack_Skoda_Karoq.jar",
+          "type": "File",
+          "artifact": {
+            "size": 44924789,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Tigre_Pack_Skoda_Karoq.jar",
+            "MD5": "6b4c78b7130eb289c8526ae64d92d198",
+            "path": "Flan/Tigre_Pack_Skoda_Karoq.jar"
+          }
+        },
+        {
+          "id": "Weapons Gun Pack 1.0.0.jar",
+          "name": "Weapons Gun Pack 1.0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 225665,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Weapons%20Gun%20Pack%201.0.0.jar",
+            "MD5": "e59fcb9777c6039f2f2df868589d185f",
+            "path": "Flan/Weapons Gun Pack 1.0.0.jar"
+          }
+        },
+        {
+          "id": "Zombie-Content Pack-1.7.10-4.8.0.jar",
+          "name": "Zombie-Content Pack-1.7.10-4.8.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 483174,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Zombie-Content%20Pack-1.7.10-4.8.0.jar",
+            "MD5": "982d51ce79e901f291eec3cea068db3a",
+            "path": "Flan/Zombie-Content Pack-1.7.10-4.8.0.jar"
+          }
+        },
+        {
+          "id": "[Flans] - CocoPack.jar",
+          "name": "[Flans] - CocoPack.jar",
+          "type": "File",
+          "artifact": {
+            "size": 8149212,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/[Flans]%20-%20CocoPack.jar",
+            "MD5": "c195876994851ff6aef460cf945d13b8",
+            "path": "Flan/[Flans] - CocoPack.jar"
+          }
+        },
+        {
+          "id": "[Flans] - DayZ Gun Pack 1.0.0.jar",
+          "name": "[Flans] - DayZ Gun Pack 1.0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 172795,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/[Flans]%20-%20DayZ%20Gun%20Pack%201.0.0.jar",
+            "MD5": "3b6890c266a406d1b404495b8ad08758",
+            "path": "Flan/[Flans] - DayZ Gun Pack 1.0.0.jar"
+          }
+        },
+        {
+          "id": "[Flans] - Weapons Gun Pack 1.0.0.jar",
+          "name": "[Flans] - Weapons Gun Pack 1.0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 225665,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/[Flans]%20-%20Weapons%20Gun%20Pack%201.0.0.jar",
+            "MD5": "e59fcb9777c6039f2f2df868589d185f",
+            "path": "Flan/[Flans] - Weapons Gun Pack 1.0.0.jar"
+          }
+        },
+        {
+          "id": "tigrepack_gendarmerie_1.12.zip",
+          "name": "tigrepack_gendarmerie_1.12.zip",
+          "type": "File",
+          "artifact": {
+            "size": 83739217,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/tigrepack_gendarmerie_1.12.zip",
+            "MD5": "ce0182041b108bd9b84dda724dea738f",
+            "path": "Flan/tigrepack_gendarmerie_1.12.zip"
+          }
         }
       ]
     }
