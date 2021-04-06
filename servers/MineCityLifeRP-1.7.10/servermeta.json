@@ -4,14 +4,14 @@
     "version": "1.0.0",
     "name": "MineCityLifeRP",
     "description": "MineCityLifeRP Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
-    "address": "localhost:25565",
+    "address": "45.140.165.6:26259",
     "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "shortId": "MineCityLife",
+      "largeImageText": "RolePlay",
+      "largeImageKey": "image0_1_"
     },
-    "mainServer": false,
-    "autoconnect": false
+    "mainServer": true,
+    "autoconnect": true
   },
   "forge": {
     "version": "10.13.4.1614"
