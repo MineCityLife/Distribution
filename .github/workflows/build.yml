@@ -42,8 +42,11 @@ jobs:
         uses: jacobtomlinson/gha-find-replace@master
         with:
           find: "__WORKSPACE__"
-          replace: "/home/runner/work/Distribution"
+          replace: "/home/runner/work/Distribution/Distribution"
           include: "Nebula/.env"
+          
+      - name: Lister les dossiers
+        run: ls -l
           
       - name: Installer Nebula
         working-directory: ./Nebula
