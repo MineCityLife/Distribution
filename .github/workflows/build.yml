@@ -39,11 +39,7 @@ jobs:
           include: "Nebula/.env"
 
       - name: Modifier le .env de Nebula
-        uses: jacobtomlinson/gha-find-replace@master
-        with:
-          find: "__WORKSPACE__"
-          replace: "/home/runner/work/Distribution/Distribution"
-          include: "Nebula/.env"
+        run: sed -i 's\__WORKSPACE__\/home/runner/work/Distribution/Distribution\g' Nebula/.env
           
       - name: Afficher le contenu du .env de Nebula
         run: echo `cat Nebula/.env`
