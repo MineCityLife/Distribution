@@ -7,8 +7,6 @@ on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -34,11 +32,19 @@ jobs:
           node-version: '14'
 
       - name: Modifier le .env de Nebula
-        working-directory: ./Nebula
-        run: |
-          sed -i 's/__JAVAEX__/$(which java)/g' .env
-          sed -i 's/__WORKSPACE__/$GITHUB_WORKSPACE/g' .env
+        uses: jacobtomlinson/gha-find-replace@master
+        with:
+          find: "__JAVAEX__"
+          replace: "$(which java)"
+          include: "Nebula/.env"
 
+      - name: Modifier le .env de Nebula
+        uses: jacobtomlinson/gha-find-replace@master
+        with:
+          find: "__WORKSPACE__"
+          replace: "$GITHUB_WORKSPACE"
+          include: "Nebula/.env"
+          
       - name: Installer Nebula
         working-directory: ./Nebula
         run: npm i
