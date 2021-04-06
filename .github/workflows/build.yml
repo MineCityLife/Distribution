@@ -42,7 +42,7 @@ jobs:
         uses: jacobtomlinson/gha-find-replace@master
         with:
           find: "__WORKSPACE__"
-          replace: "$GITHUB_WORKSPACE"
+          replace: "/home/runner/work/Distribution"
           include: "Nebula/.env"
           
       - name: Installer Nebula
