@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "MineCityLifeRP-1.7.10",
-      "name": "MineCityLifeRP (Minecraft 1.7.10)",
+      "name": "MineCityLifeRP",
       "description": "MineCityLifeRP Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
       "icon": null,
       "version": "1.0.0",
