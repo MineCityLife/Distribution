@@ -2,7 +2,7 @@
   "$schema": "file:///home/aeris/Documents/MineCityLife/Distribution/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "MineCityLifeRP (Minecraft 1.7.10)",
+    "name": "MineCityLifeRP",
     "description": "MineCityLifeRP Running Minecraft 1.7.10 (Forge v10.13.4.1614)",
     "address": "localhost:25565",
     "discord": {
