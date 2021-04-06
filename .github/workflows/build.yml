@@ -45,6 +45,9 @@ jobs:
           replace: "/home/runner/work/Distribution/Distribution"
           include: "Nebula/.env"
           
+      - name: Afficher le contenu du .env de Nebula
+        run: echo `cat Nebula/.env`
+          
       - name: Lister les dossiers
         run: |
           ls -l
