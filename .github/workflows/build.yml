@@ -19,6 +19,8 @@ jobs:
     
     steps:
       - uses: actions/checkout@v2
+        with:
+          submodules: 'recursive'
     
       - name: Installer Java 11
         uses: actions/setup-java@v2.0.0
@@ -34,7 +36,7 @@ jobs:
       - name: Modifier le .env de Nebula
         working-directory: ./Nebula
         run: |
-          sed -i 's/__JAVAEX__/${{ steps.setup-java-11.outputs.jdk-path }}/g' .env
+          sed -i 's/__JAVAEX__/$(which java)/g' .env
           sed -i 's/__WORKSPACE__/$GITHUB_WORKSPACE/g' .env
 
       - name: Installer Nebula
