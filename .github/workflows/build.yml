@@ -40,11 +40,8 @@ jobs:
       - name: Afficher le contenu du .env de Nebula
         run: echo `cat Nebula/.env`
           
-      - name: Lister les dossiers
-        run: |
-          ls -l
-          echo "$GITHUB_WORKSPACE"
-          pwd
+      - name: Retirer tous les .gitkeep
+        run: find . -name ".gitkeep" -exec rm -f {} \;
           
       - name: Installer Nebula
         working-directory: ./Nebula
@@ -53,6 +50,9 @@ jobs:
       - name: Générer le distribution final
         working-directory: ./Nebula
         run: npm run start -- generate distro
+        
+      - name: Ajouter un .gitkeep dans tous les dossiers vides
+        run: find . -type d ! -path "*.git*" -empty -exec touch '{}'/.gitkeep \;
         
       - name: Commit & Push changes
         uses: actions-js/push@master
