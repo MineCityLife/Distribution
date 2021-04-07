@@ -236,6 +236,16 @@
           }
         },
         {
+          "id": "generated.forgemod:chisel:1_7_10@jar",
+          "name": "Chisel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6378920,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/Chisel-1_7_10.jar",
+            "MD5": "c76378129307ab7b371bb9b3b8631fce"
+          }
+        },
+        {
           "id": "generated.forgemod:Currency:1.7.10 - 1.2@jar",
           "name": "Currency",
           "type": "ForgeMod",
@@ -383,6 +393,16 @@
             "size": 1774165,
             "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/OptiFine_1.7.10_HD_U_E7.jar",
             "MD5": "445062f5aaf982c36c72d90530c26850"
+          }
+        },
+        {
+          "id": "generated.forgemod:pda:1.7.10@jar",
+          "name": "Plus d'aliments",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 405594,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/Plus_daliments-1.7.10_v7.jar",
+            "MD5": "8b76ff79542387d7ff344d5e1a36bea2"
           }
         },
         {
