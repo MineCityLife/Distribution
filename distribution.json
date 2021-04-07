@@ -386,16 +386,6 @@
           }
         },
         {
-          "id": "generated.forgemod:pack_pompier:0.0.0@jar",
-          "name": "Pack_Pompier",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1721329,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/Pack_Pompier.jar",
-            "MD5": "8f493a9b1a175ec3b10c3b38684988b8"
-          }
-        },
-        {
           "id": "generated.forgemod:roadstuff:1.0.2-final@jar",
           "name": "Road Stuff",
           "type": "ForgeMod",
@@ -677,6 +667,17 @@
             "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-24.jar",
             "MD5": "982d51ce79e901f291eec3cea068db3a",
             "path": "Flan/MineCityLifePack-24.jar"
+          }
+        },
+        {
+          "id": "Pack_Pompier.jar",
+          "name": "Pack_Pompier.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1721329,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Pack_Pompier.jar",
+            "MD5": "8f493a9b1a175ec3b10c3b38684988b8",
+            "path": "Flan/Pack_Pompier.jar"
           }
         }
       ]
