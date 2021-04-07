@@ -236,16 +236,6 @@
           }
         },
         {
-          "id": "generated.forgemod:chisel:1_7_10@jar",
-          "name": "Chisel",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 6378920,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/Chisel-1_7_10.jar",
-            "MD5": "c76378129307ab7b371bb9b3b8631fce"
-          }
-        },
-        {
           "id": "generated.forgemod:Currency:1.7.10 - 1.2@jar",
           "name": "Currency",
           "type": "ForgeMod",
@@ -343,16 +333,6 @@
             "size": 57644,
             "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/LunatriusCore-1.7.10-1.1.2.21-universal.jar",
             "MD5": "435b2890f90cc256e0045eb559512eaf"
-          }
-        },
-        {
-          "id": "generated.forgemod:malisisdoors:1.7.10-1.13.2@jar",
-          "name": "Malisis' Doors",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1645689,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/malisisdoors-1_7_10.jar",
-            "MD5": "74d7523f3084db7d98af486b43bdd938"
           }
         },
         {
