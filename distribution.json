@@ -700,6 +700,17 @@
           }
         },
         {
+          "id": "MineCityLifePack-25.jar",
+          "name": "MineCityLifePack-25.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1721329,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-25.jar",
+            "MD5": "8f493a9b1a175ec3b10c3b38684988b8",
+            "path": "Flan/MineCityLifePack-25.jar"
+          }
+        },
+        {
           "id": "Pack_Pompier.jar",
           "name": "Pack_Pompier.jar",
           "type": "File",
