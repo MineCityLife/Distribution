@@ -346,6 +346,16 @@
           }
         },
         {
+          "id": "generated.forgemod:malisisdoors:1.7.10-1.13.2@jar",
+          "name": "Malisis' Doors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1645689,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/malisisdoors-1_7_10.jar",
+            "MD5": "74d7523f3084db7d98af486b43bdd938"
+          }
+        },
+        {
           "id": "generated.forgemod:MapWriter:2.1.2@jar",
           "name": "MapWriter",
           "type": "ForgeMod",
