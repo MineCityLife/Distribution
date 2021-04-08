@@ -537,6 +537,17 @@
           }
         },
         {
+          "id": "Pack-Manifestation.jar",
+          "name": "Pack-Manifestation.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1942967,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Pack-Manifestation.jar",
+            "MD5": "f0be4ca9ab1bad6456452e7c7e776966",
+            "path": "Flan/Pack-Manifestation.jar"
+          }
+        },
+        {
           "id": "Pack_Pompier.jar",
           "name": "Pack_Pompier.jar",
           "type": "File",
