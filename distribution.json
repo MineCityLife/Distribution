@@ -504,17 +504,6 @@
           }
         },
         {
-          "id": "MCLRP 7.jar",
-          "name": "MCLRP 7.jar",
-          "type": "File",
-          "artifact": {
-            "size": 10260128,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%207.jar",
-            "MD5": "9477b80506d6340f5c2ab551321553c5",
-            "path": "Flan/MCLRP 7.jar"
-          }
-        },
-        {
           "id": "MCLRP 8.jar",
           "name": "MCLRP 8.jar",
           "type": "File",
@@ -534,6 +523,17 @@
             "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%209.zip",
             "MD5": "81ff1dd9c6f3ec26da50a9a26f62570f",
             "path": "Flan/MCLRP 9.zip"
+          }
+        },
+        {
+          "id": "Machetemen Arms Pack Mid-.45 Part II.jar",
+          "name": "Machetemen Arms Pack Mid-.45 Part II.jar",
+          "type": "File",
+          "artifact": {
+            "size": 10264689,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Machetemen%20Arms%20Pack%20Mid-.45%20Part%20II.jar",
+            "MD5": "d42a0eb6dc32d9b2ee45d4c222f6febc",
+            "path": "Flan/Machetemen Arms Pack Mid-.45 Part II.jar"
           }
         },
         {
