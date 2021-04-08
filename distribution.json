@@ -416,278 +416,124 @@
           }
         },
         {
-          "id": "MineCityLifePack-01.zip",
-          "name": "MineCityLifePack-01.zip",
+          "id": "MCLRP 1.zip",
+          "name": "MCLRP 1.zip",
           "type": "File",
           "artifact": {
             "size": 12087953,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-01.zip",
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%201.zip",
             "MD5": "67341d7138e0c34c71fc920051355196",
-            "path": "Flan/MineCityLifePack-01.zip"
+            "path": "Flan/MCLRP 1.zip"
           }
         },
         {
-          "id": "MineCityLifePack-02.jar",
-          "name": "MineCityLifePack-02.jar",
-          "type": "File",
-          "artifact": {
-            "size": 2846445,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-02.jar",
-            "MD5": "bf4ba42b4f99ddbb9541726b08db3728",
-            "path": "Flan/MineCityLifePack-02.jar"
-          }
-        },
-        {
-          "id": "MineCityLifePack-03.jar",
-          "name": "MineCityLifePack-03.jar",
-          "type": "File",
-          "artifact": {
-            "size": 15936628,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-03.jar",
-            "MD5": "d3662ff0799f92603a4b09600e7b1d6f",
-            "path": "Flan/MineCityLifePack-03.jar"
-          }
-        },
-        {
-          "id": "MineCityLifePack-04.jar",
-          "name": "MineCityLifePack-04.jar",
-          "type": "File",
-          "artifact": {
-            "size": 8149212,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-04.jar",
-            "MD5": "c195876994851ff6aef460cf945d13b8",
-            "path": "Flan/MineCityLifePack-04.jar"
-          }
-        },
-        {
-          "id": "MineCityLifePack-05.jar",
-          "name": "MineCityLifePack-05.jar",
-          "type": "File",
-          "artifact": {
-            "size": 172795,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-05.jar",
-            "MD5": "3b6890c266a406d1b404495b8ad08758",
-            "path": "Flan/MineCityLifePack-05.jar"
-          }
-        },
-        {
-          "id": "MineCityLifePack-06.jar",
-          "name": "MineCityLifePack-06.jar",
-          "type": "File",
-          "artifact": {
-            "size": 225665,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-06.jar",
-            "MD5": "e59fcb9777c6039f2f2df868589d185f",
-            "path": "Flan/MineCityLifePack-06.jar"
-          }
-        },
-        {
-          "id": "MineCityLifePack-07.zip",
-          "name": "MineCityLifePack-07.zip",
-          "type": "File",
-          "artifact": {
-            "size": 10302025,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-07.zip",
-            "MD5": "3c6d5e61b2a9f9c2db2e5f9380d3de86",
-            "path": "Flan/MineCityLifePack-07.zip"
-          }
-        },
-        {
-          "id": "MineCityLifePack-08.jar",
-          "name": "MineCityLifePack-08.jar",
-          "type": "File",
-          "artifact": {
-            "size": 2771943,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-08.jar",
-            "MD5": "b801441a06f6f4d415b45daa082e316a",
-            "path": "Flan/MineCityLifePack-08.jar"
-          }
-        },
-        {
-          "id": "MineCityLifePack-09.jar",
-          "name": "MineCityLifePack-09.jar",
-          "type": "File",
-          "artifact": {
-            "size": 10281161,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-09.jar",
-            "MD5": "e1f1807d93d2025cced5b9e85b7e31d8",
-            "path": "Flan/MineCityLifePack-09.jar"
-          }
-        },
-        {
-          "id": "MineCityLifePack-10.jar",
-          "name": "MineCityLifePack-10.jar",
-          "type": "File",
-          "artifact": {
-            "size": 3493259,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-10.jar",
-            "MD5": "c3197abd6d3a927319e0dc36409beb90",
-            "path": "Flan/MineCityLifePack-10.jar"
-          }
-        },
-        {
-          "id": "MineCityLifePack-11.zip",
-          "name": "MineCityLifePack-11.zip",
-          "type": "File",
-          "artifact": {
-            "size": 5721475,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-11.zip",
-            "MD5": "81ff1dd9c6f3ec26da50a9a26f62570f",
-            "path": "Flan/MineCityLifePack-11.zip"
-          }
-        },
-        {
-          "id": "MineCityLifePack-12.zip",
-          "name": "MineCityLifePack-12.zip",
-          "type": "File",
-          "artifact": {
-            "size": 39585,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-12.zip",
-            "MD5": "d2157143bdbd075600a76e42fba731c5",
-            "path": "Flan/MineCityLifePack-12.zip"
-          }
-        },
-        {
-          "id": "MineCityLifePack-13.jar",
-          "name": "MineCityLifePack-13.jar",
-          "type": "File",
-          "artifact": {
-            "size": 27446229,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-13.jar",
-            "MD5": "e5efdd347e685294aa53cc2f2e234d9e",
-            "path": "Flan/MineCityLifePack-13.jar"
-          }
-        },
-        {
-          "id": "MineCityLifePack-14.jar",
-          "name": "MineCityLifePack-14.jar",
-          "type": "File",
-          "artifact": {
-            "size": 2074358,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-14.jar",
-            "MD5": "098a7f9d6d32c8178a96de512b12d911",
-            "path": "Flan/MineCityLifePack-14.jar"
-          }
-        },
-        {
-          "id": "MineCityLifePack-15.jar",
-          "name": "MineCityLifePack-15.jar",
-          "type": "File",
-          "artifact": {
-            "size": 148192,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-15.jar",
-            "MD5": "aff3c719760e0acfa700619fc1328f60",
-            "path": "Flan/MineCityLifePack-15.jar"
-          }
-        },
-        {
-          "id": "MineCityLifePack-16.jar",
-          "name": "MineCityLifePack-16.jar",
-          "type": "File",
-          "artifact": {
-            "size": 9410426,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-16.jar",
-            "MD5": "a17d236a7c85ef9bdb56234600c7dedd",
-            "path": "Flan/MineCityLifePack-16.jar"
-          }
-        },
-        {
-          "id": "MineCityLifePack-17.zip",
-          "name": "MineCityLifePack-17.zip",
-          "type": "File",
-          "artifact": {
-            "size": 40834422,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-17.zip",
-            "MD5": "a34bc997697fd3da796cfcf0a17549d9",
-            "path": "Flan/MineCityLifePack-17.zip"
-          }
-        },
-        {
-          "id": "MineCityLifePack-18.zip",
-          "name": "MineCityLifePack-18.zip",
-          "type": "File",
-          "artifact": {
-            "size": 83739217,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-18.zip",
-            "MD5": "ce0182041b108bd9b84dda724dea738f",
-            "path": "Flan/MineCityLifePack-18.zip"
-          }
-        },
-        {
-          "id": "MineCityLifePack-19.jar",
-          "name": "MineCityLifePack-19.jar",
-          "type": "File",
-          "artifact": {
-            "size": 91242802,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-19.jar",
-            "MD5": "816b8de989ba5561b31bced0cf3de82c",
-            "path": "Flan/MineCityLifePack-19.jar"
-          }
-        },
-        {
-          "id": "MineCityLifePack-20.zip",
-          "name": "MineCityLifePack-20.zip",
-          "type": "File",
-          "artifact": {
-            "size": 20978338,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-20.zip",
-            "MD5": "dbe09b210713ca1bf7212eab74dff12f",
-            "path": "Flan/MineCityLifePack-20.zip"
-          }
-        },
-        {
-          "id": "MineCityLifePack-21.zip",
-          "name": "MineCityLifePack-21.zip",
-          "type": "File",
-          "artifact": {
-            "size": 11414018,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-21.zip",
-            "MD5": "5adcc264eb781aadc47d7456baf8bd72",
-            "path": "Flan/MineCityLifePack-21.zip"
-          }
-        },
-        {
-          "id": "MineCityLifePack-22.jar",
-          "name": "MineCityLifePack-22.jar",
-          "type": "File",
-          "artifact": {
-            "size": 44924789,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-22.jar",
-            "MD5": "6b4c78b7130eb289c8526ae64d92d198",
-            "path": "Flan/MineCityLifePack-22.jar"
-          }
-        },
-        {
-          "id": "MineCityLifePack-23.jar",
-          "name": "MineCityLifePack-23.jar",
-          "type": "File",
-          "artifact": {
-            "size": 225665,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-23.jar",
-            "MD5": "e59fcb9777c6039f2f2df868589d185f",
-            "path": "Flan/MineCityLifePack-23.jar"
-          }
-        },
-        {
-          "id": "MineCityLifePack-24.jar",
-          "name": "MineCityLifePack-24.jar",
-          "type": "File",
-          "artifact": {
-            "size": 483174,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-24.jar",
-            "MD5": "982d51ce79e901f291eec3cea068db3a",
-            "path": "Flan/MineCityLifePack-24.jar"
-          }
-        },
-        {
-          "id": "MineCityLifePack-25.jar",
-          "name": "MineCityLifePack-25.jar",
+          "id": "MCLRP 10.jar",
+          "name": "MCLRP 10.jar",
           "type": "File",
           "artifact": {
             "size": 1721329,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MineCityLifePack-25.jar",
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%2010.jar",
             "MD5": "8f493a9b1a175ec3b10c3b38684988b8",
-            "path": "Flan/MineCityLifePack-25.jar"
+            "path": "Flan/MCLRP 10.jar"
+          }
+        },
+        {
+          "id": "MCLRP 2.jar",
+          "name": "MCLRP 2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2846445,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%202.jar",
+            "MD5": "bf4ba42b4f99ddbb9541726b08db3728",
+            "path": "Flan/MCLRP 2.jar"
+          }
+        },
+        {
+          "id": "MCLRP 3.jar",
+          "name": "MCLRP 3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 15936628,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%203.jar",
+            "MD5": "d3662ff0799f92603a4b09600e7b1d6f",
+            "path": "Flan/MCLRP 3.jar"
+          }
+        },
+        {
+          "id": "MCLRP 4.jar",
+          "name": "MCLRP 4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 172795,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%204.jar",
+            "MD5": "3b6890c266a406d1b404495b8ad08758",
+            "path": "Flan/MCLRP 4.jar"
+          }
+        },
+        {
+          "id": "MCLRP 4.zip",
+          "name": "MCLRP 4.zip",
+          "type": "File",
+          "artifact": {
+            "size": 39585,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%204.zip",
+            "MD5": "d2157143bdbd075600a76e42fba731c5",
+            "path": "Flan/MCLRP 4.zip"
+          }
+        },
+        {
+          "id": "MCLRP 5.zip",
+          "name": "MCLRP 5.zip",
+          "type": "File",
+          "artifact": {
+            "size": 10302025,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%205.zip",
+            "MD5": "3c6d5e61b2a9f9c2db2e5f9380d3de86",
+            "path": "Flan/MCLRP 5.zip"
+          }
+        },
+        {
+          "id": "MCLRP 6.jar",
+          "name": "MCLRP 6.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2771943,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%206.jar",
+            "MD5": "b801441a06f6f4d415b45daa082e316a",
+            "path": "Flan/MCLRP 6.jar"
+          }
+        },
+        {
+          "id": "MCLRP 7.jar",
+          "name": "MCLRP 7.jar",
+          "type": "File",
+          "artifact": {
+            "size": 10260128,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%207.jar",
+            "MD5": "9477b80506d6340f5c2ab551321553c5",
+            "path": "Flan/MCLRP 7.jar"
+          }
+        },
+        {
+          "id": "MCLRP 8.jar",
+          "name": "MCLRP 8.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3493259,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%208.jar",
+            "MD5": "c3197abd6d3a927319e0dc36409beb90",
+            "path": "Flan/MCLRP 8.jar"
+          }
+        },
+        {
+          "id": "MCLRP 9.zip",
+          "name": "MCLRP 9.zip",
+          "type": "File",
+          "artifact": {
+            "size": 5721475,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%209.zip",
+            "MD5": "81ff1dd9c6f3ec26da50a9a26f62570f",
+            "path": "Flan/MCLRP 9.zip"
           }
         },
         {
@@ -699,6 +545,149 @@
             "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Pack_Pompier.jar",
             "MD5": "8f493a9b1a175ec3b10c3b38684988b8",
             "path": "Flan/Pack_Pompier.jar"
+          }
+        },
+        {
+          "id": "Plume-Pack.jar",
+          "name": "Plume-Pack.jar",
+          "type": "File",
+          "artifact": {
+            "size": 27446229,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Plume-Pack.jar",
+            "MD5": "e5efdd347e685294aa53cc2f2e234d9e",
+            "path": "Flan/Plume-Pack.jar"
+          }
+        },
+        {
+          "id": "Required Pack 1.0.0.jar",
+          "name": "Required Pack 1.0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2074358,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Required%20Pack%201.0.0.jar",
+            "MD5": "098a7f9d6d32c8178a96de512b12d911",
+            "path": "Flan/Required Pack 1.0.0.jar"
+          }
+        },
+        {
+          "id": "Simple Parts-Content Pack-1.7.10-4.8.0.jar",
+          "name": "Simple Parts-Content Pack-1.7.10-4.8.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 148192,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Simple%20Parts-Content%20Pack-1.7.10-4.8.0.jar",
+            "MD5": "aff3c719760e0acfa700619fc1328f60",
+            "path": "Flan/Simple Parts-Content Pack-1.7.10-4.8.0.jar"
+          }
+        },
+        {
+          "id": "TF51Basic-Content Pack-1.7.10-1.0.jar",
+          "name": "TF51Basic-Content Pack-1.7.10-1.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 9410426,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/TF51Basic-Content%20Pack-1.7.10-1.0.jar",
+            "MD5": "a17d236a7c85ef9bdb56234600c7dedd",
+            "path": "Flan/TF51Basic-Content Pack-1.7.10-1.0.jar"
+          }
+        },
+        {
+          "id": "TWeapons Gun Pack 1.0.0.jar",
+          "name": "TWeapons Gun Pack 1.0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 225665,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/TWeapons%20Gun%20Pack%201.0.0.jar",
+            "MD5": "e59fcb9777c6039f2f2df868589d185f",
+            "path": "Flan/TWeapons Gun Pack 1.0.0.jar"
+          }
+        },
+        {
+          "id": "TigerPack Police Nationale V2.zip",
+          "name": "TigerPack Police Nationale V2.zip",
+          "type": "File",
+          "artifact": {
+            "size": 40834422,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/TigerPack%20Police%20Nationale%20V2.zip",
+            "MD5": "a34bc997697fd3da796cfcf0a17549d9",
+            "path": "Flan/TigerPack Police Nationale V2.zip"
+          }
+        },
+        {
+          "id": "Tigre Pack Gravier Version 150 000.jar",
+          "name": "Tigre Pack Gravier Version 150 000.jar",
+          "type": "File",
+          "artifact": {
+            "size": 91242802,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Tigre%20Pack%20Gravier%20Version%20150%20000.jar",
+            "MD5": "816b8de989ba5561b31bced0cf3de82c",
+            "path": "Flan/Tigre Pack Gravier Version 150 000.jar"
+          }
+        },
+        {
+          "id": "Tigre Pack Renault GBC 180.zip",
+          "name": "Tigre Pack Renault GBC 180.zip",
+          "type": "File",
+          "artifact": {
+            "size": 11414018,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Tigre%20Pack%20Renault%20GBC%20180.zip",
+            "MD5": "5adcc264eb781aadc47d7456baf8bd72",
+            "path": "Flan/Tigre Pack Renault GBC 180.zip"
+          }
+        },
+        {
+          "id": "Tigre_Pack_KarmaOwner.zip",
+          "name": "Tigre_Pack_KarmaOwner.zip",
+          "type": "File",
+          "artifact": {
+            "size": 20978338,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Tigre_Pack_KarmaOwner.zip",
+            "MD5": "dbe09b210713ca1bf7212eab74dff12f",
+            "path": "Flan/Tigre_Pack_KarmaOwner.zip"
+          }
+        },
+        {
+          "id": "Tigre_Pack_Skoda_Karoq.jar",
+          "name": "Tigre_Pack_Skoda_Karoq.jar",
+          "type": "File",
+          "artifact": {
+            "size": 44924789,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Tigre_Pack_Skoda_Karoq.jar",
+            "MD5": "6b4c78b7130eb289c8526ae64d92d198",
+            "path": "Flan/Tigre_Pack_Skoda_Karoq.jar"
+          }
+        },
+        {
+          "id": "Weapons Gun Pack 1.0.0.jar",
+          "name": "Weapons Gun Pack 1.0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 225665,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Weapons%20Gun%20Pack%201.0.0.jar",
+            "MD5": "e59fcb9777c6039f2f2df868589d185f",
+            "path": "Flan/Weapons Gun Pack 1.0.0.jar"
+          }
+        },
+        {
+          "id": "Zombie-Content Pack-1.7.10-4.8.0.jar",
+          "name": "Zombie-Content Pack-1.7.10-4.8.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 483174,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Zombie-Content%20Pack-1.7.10-4.8.0.jar",
+            "MD5": "982d51ce79e901f291eec3cea068db3a",
+            "path": "Flan/Zombie-Content Pack-1.7.10-4.8.0.jar"
+          }
+        },
+        {
+          "id": "tigrepack_gendarmerie_1.12.zip",
+          "name": "tigrepack_gendarmerie_1.12.zip",
+          "type": "File",
+          "artifact": {
+            "size": 83739217,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/tigrepack_gendarmerie_1.12.zip",
+            "MD5": "ce0182041b108bd9b84dda724dea738f",
+            "path": "Flan/tigrepack_gendarmerie_1.12.zip"
           }
         }
       ]
