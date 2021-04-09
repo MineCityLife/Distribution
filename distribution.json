@@ -204,6 +204,206 @@
               }
             }
           ]
+        },
+        {
+          "id": "generated.forgemod:[1.7.10]+securitycraft+1.7.3:0.0.0@jar",
+          "name": "[1.7.10]+SecurityCraft+1.7.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 814440,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/[1.7.10]+SecurityCraft+1.7.3.jar",
+            "MD5": "53114faa204fe3a483f45f62734b5e74"
+          }
+        },
+        {
+          "id": "generated.forgemod:armamania:1.0.0@jar",
+          "name": "Arma Mania Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7027532,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/ArmaManiaMod1.0.6.1.jar",
+            "MD5": "b831497a6ebf6da48b1b4aefef7d00b8"
+          }
+        },
+        {
+          "id": "generated.forgemod:Backpack:2.0.1-1.7.x@jar",
+          "name": "Backpack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 174814,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/backpack-2.0.1-1.7.x.jar",
+            "MD5": "22f976e9c4af7c5400ac11f59c87f592"
+          }
+        },
+        {
+          "id": "generated.forgemod:Currency:1.7.10 - 1.2@jar",
+          "name": "Currency",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 109308,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/currency-1.7.10+-+1.2.jar",
+            "MD5": "9902934893f02dd421b43bd72a25eacc"
+          }
+        },
+        {
+          "id": "generated.forgemod:customnpcs:1.7.10@jar",
+          "name": "CustomNpcs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9007920,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/CustomNPCs_1.7.10d(29oct17).jar",
+            "MD5": "486eb501ae87b3efcdc6b08823c7d7c9"
+          }
+        },
+        {
+          "id": "generated.forgemod:props:2.4.1_1.7.10@jar",
+          "name": "Decocraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13365878,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/Decocraft-1_7_10.jar",
+            "MD5": "5a748c72e61fc66d27f1b636c6976d17"
+          }
+        },
+        {
+          "id": "generated.forgemod:flansmod:4.8.0@jar",
+          "name": "Flan's Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1230374,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/Flans%20Mod-1.7.10-4.8.0.jar",
+            "MD5": "5a959ef4ed130659f5fb721889ff58a6"
+          }
+        },
+        {
+          "id": "generated.forgemod:FlenixCities:0.16.1@jar",
+          "name": "FlenixCitiesCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 823668,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/FlenixCitiesCore_[1.7.10]-0.16.1-b122.jar",
+            "MD5": "86cd458a2fdb0a465f82c51499f62f2d"
+          }
+        },
+        {
+          "id": "generated.forgemod:FlenixCitiesResearch:0.4@jar",
+          "name": "FlenixCitiesResearch",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 467922,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/FlenixCitiesResearch.jar",
+            "MD5": "abbfcb04acde72648e525377c30d997f"
+          }
+        },
+        {
+          "id": "generated.forgemod:gvc:0.6.1@jar",
+          "name": "�aGliby's�f Voice Chat Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 399246,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/GlibysVC-1.7.10-0.6.2a.jar",
+            "MD5": "0efe8c9aaa45b15f776cb49136860697"
+          }
+        },
+        {
+          "id": "generated.forgemod:HideNames:1.7.10-1.1.8@jar",
+          "name": "Hide Names",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19315,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/Hide%20Names.jar",
+            "MD5": "4bef9ebf015cf9b9676ac3b9694f11ef"
+          }
+        },
+        {
+          "id": "generated.forgemod:invisibleblockmod:1.7.10-1.1.9@jar",
+          "name": "InvisiBlocks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 60010,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/InvisiBlocks.jar",
+            "MD5": "848711ea6a24660b2ff8d8dd58a6053e"
+          }
+        },
+        {
+          "id": "generated.forgemod:LunatriusCore:1.1.2.21@jar",
+          "name": "LunatriusCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 57644,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/LunatriusCore-1.7.10-1.1.2.21-universal.jar",
+            "MD5": "435b2890f90cc256e0045eb559512eaf"
+          }
+        },
+        {
+          "id": "generated.forgemod:MapWriter:2.1.2@jar",
+          "name": "MapWriter",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 164509,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/Map-0.jar",
+            "MD5": "391c71835f142e01d95db8846f4c3889"
+          }
+        },
+        {
+          "id": "generated.forgemod:mm:1.7.10-v0.2.0@jar",
+          "name": "Minecraft Money",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 531383,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/mm-1.7.10-v0.2.0.jar",
+            "MD5": "a84eb9e7401b67c18fb027ef25d74139"
+          }
+        },
+        {
+          "id": "generated.forgemod:Monoblocks:11.6@jar",
+          "name": "�cMonoblocks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5389169,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/Monoblocks.jar",
+            "MD5": "d60f8f301f4a5947aec2d18b36bfa9a2"
+          }
+        },
+        {
+          "id": "generated.forgemod:cfm:�83.4.7@jar",
+          "name": "�9MrCrayfish's Furniture Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1728623,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/MrCrayfishFurnitureMod.jar",
+            "MD5": "8111a064ff0adcd7b29c78d3eec2a2c9"
+          }
+        },
+        {
+          "id": "generated.forgemod:pda:1.7.10@jar",
+          "name": "Plus d'aliments",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 405594,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/Plus_daliments-1.7.10_v7.jar",
+            "MD5": "8b76ff79542387d7ff344d5e1a36bea2"
+          }
+        },
+        {
+          "id": "generated.forgemod:roadstuff:1.0.2-final@jar",
+          "name": "Road Stuff",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 701951,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/RoadStuff-mc1.7.10-1.0.2.jar",
+            "MD5": "6b9c3ac58dee906141a9d033615609d6"
+          }
+        },
+        {
+          "id": "generated.forgemod:thirstmod:1.8.14@jar",
+          "name": "Thirst Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 174873,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/Thirst.jar",
+            "MD5": "25491a66912a75467b731b61e3675112"
+          }
         }
       ]
     }
