@@ -410,9 +410,9 @@
           "name": "Apex_Pack.zip",
           "type": "File",
           "artifact": {
-            "size": 12087953,
+            "size": 12087867,
             "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/flan/Apex_Pack.zip",
-            "MD5": "67341d7138e0c34c71fc920051355196",
+            "MD5": "7b7f4ec3ec378bc25836ce37c3bf8479",
             "path": "flan/Apex_Pack.zip"
           }
         },
@@ -454,9 +454,9 @@
           "name": "Gravier_Pack.zip",
           "type": "File",
           "artifact": {
-            "size": 10302025,
+            "size": 10301957,
             "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/flan/Gravier_Pack.zip",
-            "MD5": "3c6d5e61b2a9f9c2db2e5f9380d3de86",
+            "MD5": "25ca99faa0a778725d9ac21651ddf6ff",
             "path": "flan/Gravier_Pack.zip"
           }
         },
@@ -487,9 +487,9 @@
           "name": "Modern Warfare-Content Pack-1.7.10-4.8.0.jar",
           "type": "File",
           "artifact": {
-            "size": 3493259,
+            "size": 3493388,
             "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/flan/Modern%20Warfare-Content%20Pack-1.7.10-4.8.0.jar",
-            "MD5": "c3197abd6d3a927319e0dc36409beb90",
+            "MD5": "c2b0271f817c5eabf19bc7e8cb3e6248",
             "path": "flan/Modern Warfare-Content Pack-1.7.10-4.8.0.jar"
           }
         },
@@ -542,9 +542,9 @@
           "name": "Plume-Pack.jar",
           "type": "File",
           "artifact": {
-            "size": 27446229,
+            "size": 27446226,
             "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/flan/Plume-Pack.jar",
-            "MD5": "e5efdd347e685294aa53cc2f2e234d9e",
+            "MD5": "8ecb3106b3137bd0ac3fa555b7887879",
             "path": "flan/Plume-Pack.jar"
           }
         },
@@ -619,9 +619,9 @@
           "name": "Tigre Pack Renault GBC 180.zip",
           "type": "File",
           "artifact": {
-            "size": 11414018,
+            "size": 11413934,
             "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/flan/Tigre%20Pack%20Renault%20GBC%20180.zip",
-            "MD5": "5adcc264eb781aadc47d7456baf8bd72",
+            "MD5": "f8fff3db7c4a96a7ee1a776a5dfa8e9e",
             "path": "flan/Tigre Pack Renault GBC 180.zip"
           }
         },
@@ -630,9 +630,9 @@
           "name": "Tigre_Pack_KarmaOwner.zip",
           "type": "File",
           "artifact": {
-            "size": 20978338,
+            "size": 20978332,
             "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/flan/Tigre_Pack_KarmaOwner.zip",
-            "MD5": "dbe09b210713ca1bf7212eab74dff12f",
+            "MD5": "9a9246ff75c3b10909a5a8c2e160727d",
             "path": "flan/Tigre_Pack_KarmaOwner.zip"
           }
         },
@@ -641,9 +641,9 @@
           "name": "Tigre_Pack_Skoda_Karoq.jar",
           "type": "File",
           "artifact": {
-            "size": 44924789,
+            "size": 44924751,
             "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/flan/Tigre_Pack_Skoda_Karoq.jar",
-            "MD5": "6b4c78b7130eb289c8526ae64d92d198",
+            "MD5": "90f81a557792fc00ed52b2ba07f74bf0",
             "path": "flan/Tigre_Pack_Skoda_Karoq.jar"
           }
         },
