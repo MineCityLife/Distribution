@@ -404,6 +404,17 @@
             "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/Thirst.jar",
             "MD5": "25491a66912a75467b731b61e3675112"
           }
+        },
+        {
+          "id": "Machetemen Arms Pack Mid-.45 Part II.jar",
+          "name": "Machetemen Arms Pack Mid-.45 Part II.jar",
+          "type": "File",
+          "artifact": {
+            "size": 10281161,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/flan/Machetemen%20Arms%20Pack%20Mid-.45%20Part%20II.jar",
+            "MD5": "e1f1807d93d2025cced5b9e85b7e31d8",
+            "path": "flan/Machetemen Arms Pack Mid-.45 Part II.jar"
+          }
         }
       ]
     }
