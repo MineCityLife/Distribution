@@ -416,113 +416,69 @@
           }
         },
         {
-          "id": "MCLRP 1.zip",
-          "name": "MCLRP 1.zip",
+          "id": "Apex_Pack.zip",
+          "name": "Apex_Pack.zip",
           "type": "File",
           "artifact": {
             "size": 12087953,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%201.zip",
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Apex_Pack.zip",
             "MD5": "67341d7138e0c34c71fc920051355196",
-            "path": "Flan/MCLRP 1.zip"
+            "path": "Flan/Apex_Pack.zip"
           }
         },
         {
-          "id": "MCLRP 10.jar",
-          "name": "MCLRP 10.jar",
-          "type": "File",
-          "artifact": {
-            "size": 1721329,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%2010.jar",
-            "MD5": "8f493a9b1a175ec3b10c3b38684988b8",
-            "path": "Flan/MCLRP 10.jar"
-          }
-        },
-        {
-          "id": "MCLRP 2.jar",
-          "name": "MCLRP 2.jar",
-          "type": "File",
-          "artifact": {
-            "size": 2846445,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%202.jar",
-            "MD5": "bf4ba42b4f99ddbb9541726b08db3728",
-            "path": "Flan/MCLRP 2.jar"
-          }
-        },
-        {
-          "id": "MCLRP 3.jar",
-          "name": "MCLRP 3.jar",
+          "id": "CYLRP-Content Pack-1.7.10-4.10.0.jar",
+          "name": "CYLRP-Content Pack-1.7.10-4.10.0.jar",
           "type": "File",
           "artifact": {
             "size": 15936628,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%203.jar",
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/CYLRP-Content%20Pack-1.7.10-4.10.0.jar",
             "MD5": "d3662ff0799f92603a4b09600e7b1d6f",
-            "path": "Flan/MCLRP 3.jar"
+            "path": "Flan/CYLRP-Content Pack-1.7.10-4.10.0.jar"
           }
         },
         {
-          "id": "MCLRP 4.jar",
-          "name": "MCLRP 4.jar",
+          "id": "Cocos Civil Pack.jar",
+          "name": "Cocos Civil Pack.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2846445,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Cocos%20Civil%20Pack.jar",
+            "MD5": "bf4ba42b4f99ddbb9541726b08db3728",
+            "path": "Flan/Cocos Civil Pack.jar"
+          }
+        },
+        {
+          "id": "DayZ Gun Pack 1.0.0.jar",
+          "name": "DayZ Gun Pack 1.0.0.jar",
           "type": "File",
           "artifact": {
             "size": 172795,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%204.jar",
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/DayZ%20Gun%20Pack%201.0.0.jar",
             "MD5": "3b6890c266a406d1b404495b8ad08758",
-            "path": "Flan/MCLRP 4.jar"
+            "path": "Flan/DayZ Gun Pack 1.0.0.jar"
           }
         },
         {
-          "id": "MCLRP 4.zip",
-          "name": "MCLRP 4.zip",
-          "type": "File",
-          "artifact": {
-            "size": 39585,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%204.zip",
-            "MD5": "d2157143bdbd075600a76e42fba731c5",
-            "path": "Flan/MCLRP 4.zip"
-          }
-        },
-        {
-          "id": "MCLRP 5.zip",
-          "name": "MCLRP 5.zip",
+          "id": "Gravier_Pack.zip",
+          "name": "Gravier_Pack.zip",
           "type": "File",
           "artifact": {
             "size": 10302025,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%205.zip",
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Gravier_Pack.zip",
             "MD5": "3c6d5e61b2a9f9c2db2e5f9380d3de86",
-            "path": "Flan/MCLRP 5.zip"
+            "path": "Flan/Gravier_Pack.zip"
           }
         },
         {
-          "id": "MCLRP 6.jar",
-          "name": "MCLRP 6.jar",
+          "id": "Greylight by DerpiWolf-Content Pack-1.7.10-4.10.0.jar",
+          "name": "Greylight by DerpiWolf-Content Pack-1.7.10-4.10.0.jar",
           "type": "File",
           "artifact": {
             "size": 2771943,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%206.jar",
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Greylight%20by%20DerpiWolf-Content%20Pack-1.7.10-4.10.0.jar",
             "MD5": "b801441a06f6f4d415b45daa082e316a",
-            "path": "Flan/MCLRP 6.jar"
-          }
-        },
-        {
-          "id": "MCLRP 8.jar",
-          "name": "MCLRP 8.jar",
-          "type": "File",
-          "artifact": {
-            "size": 3493259,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%208.jar",
-            "MD5": "c3197abd6d3a927319e0dc36409beb90",
-            "path": "Flan/MCLRP 8.jar"
-          }
-        },
-        {
-          "id": "MCLRP 9.zip",
-          "name": "MCLRP 9.zip",
-          "type": "File",
-          "artifact": {
-            "size": 5721475,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/MCLRP%209.zip",
-            "MD5": "81ff1dd9c6f3ec26da50a9a26f62570f",
-            "path": "Flan/MCLRP 9.zip"
+            "path": "Flan/Greylight by DerpiWolf-Content Pack-1.7.10-4.10.0.jar"
           }
         },
         {
@@ -537,6 +493,39 @@
           }
         },
         {
+          "id": "Modern Warfare-Content Pack-1.7.10-4.8.0.jar",
+          "name": "Modern Warfare-Content Pack-1.7.10-4.8.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3493259,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Modern%20Warfare-Content%20Pack-1.7.10-4.8.0.jar",
+            "MD5": "c3197abd6d3a927319e0dc36409beb90",
+            "path": "Flan/Modern Warfare-Content Pack-1.7.10-4.8.0.jar"
+          }
+        },
+        {
+          "id": "Motard.zip",
+          "name": "Motard.zip",
+          "type": "File",
+          "artifact": {
+            "size": 5721475,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Motard.zip",
+            "MD5": "81ff1dd9c6f3ec26da50a9a26f62570f",
+            "path": "Flan/Motard.zip"
+          }
+        },
+        {
+          "id": "Pack Pompier.jar",
+          "name": "Pack Pompier.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1721329,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Pack%20Pompier.jar",
+            "MD5": "8f493a9b1a175ec3b10c3b38684988b8",
+            "path": "Flan/Pack Pompier.jar"
+          }
+        },
+        {
           "id": "Pack-Manifestation.jar",
           "name": "Pack-Manifestation.jar",
           "type": "File",
@@ -548,14 +537,14 @@
           }
         },
         {
-          "id": "Pack_Pompier.jar",
-          "name": "Pack_Pompier.jar",
+          "id": "PackTenueCYLRP(Fymou).zip",
+          "name": "PackTenueCYLRP(Fymou).zip",
           "type": "File",
           "artifact": {
-            "size": 1721329,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/Pack_Pompier.jar",
-            "MD5": "8f493a9b1a175ec3b10c3b38684988b8",
-            "path": "Flan/Pack_Pompier.jar"
+            "size": 39585,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/Flan/PackTenueCYLRP(Fymou).zip",
+            "MD5": "d2157143bdbd075600a76e42fba731c5",
+            "path": "Flan/PackTenueCYLRP(Fymou).zip"
           }
         },
         {
