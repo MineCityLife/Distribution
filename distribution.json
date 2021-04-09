@@ -266,6 +266,16 @@
           }
         },
         {
+          "id": "generated.forgemod:flansmod:4.9.0@jar",
+          "name": "Flan's Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1278391,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/Flans%20Mod-1.7.10-4.9.0.jar",
+            "MD5": "fdec4baa5b79af8ac7cdad1547a700cf"
+          }
+        },
+        {
           "id": "generated.forgemod:FlenixCities:0.16.1@jar",
           "name": "FlenixCitiesCore",
           "type": "ForgeMod",
