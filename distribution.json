@@ -414,6 +414,17 @@
             "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/Thirst.jar",
             "MD5": "25491a66912a75467b731b61e3675112"
           }
+        },
+        {
+          "id": ".gitkeep.txt",
+          "name": ".gitkeep.txt",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/flan/.gitkeep.txt",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "flan/.gitkeep.txt"
+          }
         }
       ]
     }
