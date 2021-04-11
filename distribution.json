@@ -460,17 +460,6 @@
           }
         },
         {
-          "id": "Global Firestorm v3.2 - Thunder Run.jar",
-          "name": "Global Firestorm v3.2 - Thunder Run.jar",
-          "type": "File",
-          "artifact": {
-            "size": 18927092,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/flan/Global%20Firestorm%20v3.2%20-%20Thunder%20Run.jar",
-            "MD5": "5e5711bffda8e019d5d9c5d3f69b5fff",
-            "path": "flan/Global Firestorm v3.2 - Thunder Run.jar"
-          }
-        },
-        {
           "id": "Gravier_Pack.zip",
           "name": "Gravier_Pack.zip",
           "type": "File",
