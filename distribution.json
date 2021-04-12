@@ -414,6 +414,39 @@
             "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/Thirst.jar",
             "MD5": "25491a66912a75467b731b61e3675112"
           }
+        },
+        {
+          "id": "MineCityLife 1.zip",
+          "name": "MineCityLife 1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 12087867,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/flan/MineCityLife%201.zip",
+            "MD5": "7b7f4ec3ec378bc25836ce37c3bf8479",
+            "path": "flan/MineCityLife 1.zip"
+          }
+        },
+        {
+          "id": "MineCityLife 2.jar",
+          "name": "MineCityLife 2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2846445,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/flan/MineCityLife%202.jar",
+            "MD5": "bf4ba42b4f99ddbb9541726b08db3728",
+            "path": "flan/MineCityLife 2.jar"
+          }
+        },
+        {
+          "id": "MineCityLife 3.jar",
+          "name": "MineCityLife 3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 15936628,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/flan/MineCityLife%203.jar",
+            "MD5": "d3662ff0799f92603a4b09600e7b1d6f",
+            "path": "flan/MineCityLife 3.jar"
+          }
         }
       ]
     }
