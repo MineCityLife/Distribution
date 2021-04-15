@@ -438,6 +438,17 @@
           }
         },
         {
+          "id": "Flan_Pack_Diatra (1).jar",
+          "name": "Flan_Pack_Diatra (1).jar",
+          "type": "File",
+          "artifact": {
+            "size": 3109561,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/flan/Flan_Pack_Diatra%20(1).jar",
+            "MD5": "294d43dc258b142693551f9e4a774b4c",
+            "path": "flan/Flan_Pack_Diatra (1).jar"
+          }
+        },
+        {
           "id": "Global Firestorm v3.2 - Thunder Run.jar",
           "name": "Global Firestorm v3.2 - Thunder Run.jar",
           "type": "File",
