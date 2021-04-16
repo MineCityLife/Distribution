@@ -559,17 +559,6 @@
           }
         },
         {
-          "id": "Tigre Pack texture.jar",
-          "name": "Tigre Pack texture.jar",
-          "type": "File",
-          "artifact": {
-            "size": 81193333,
-            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/flan/Tigre%20Pack%20texture.jar",
-            "MD5": "0c2b515406682a67f3b19ec7aa0cd4fb",
-            "path": "flan/Tigre Pack texture.jar"
-          }
-        },
-        {
           "id": "Weapons Gun Pack 1.0.0.jar",
           "name": "Weapons Gun Pack 1.0.0.jar",
           "type": "File",
