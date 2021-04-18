@@ -482,6 +482,17 @@
           }
         },
         {
+          "id": "Minecraft SMP Parts Package 4.0-Content Pack-1.7.10-4.10.0.jar",
+          "name": "Minecraft SMP Parts Package 4.0-Content Pack-1.7.10-4.10.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 922996,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/flan/Minecraft%20SMP%20Parts%20Package%204.0-Content%20Pack-1.7.10-4.10.0.jar",
+            "MD5": "45f1ae876cabb8d308c19e6702b12304",
+            "path": "flan/Minecraft SMP Parts Package 4.0-Content Pack-1.7.10-4.10.0.jar"
+          }
+        },
+        {
           "id": "Modern Warfare-Content Pack-1.7.10-4.8.0.jar",
           "name": "Modern Warfare-Content Pack-1.7.10-4.8.0.jar",
           "type": "File",
