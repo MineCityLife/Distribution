@@ -590,6 +590,17 @@
             "MD5": "982d51ce79e901f291eec3cea068db3a",
             "path": "flan/Zombie-Content Pack-1.7.10-4.8.0.jar"
           }
+        },
+        {
+          "id": "alcara-v1.jar",
+          "name": "alcara-v1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3733868,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/flan/alcara-v1.jar",
+            "MD5": "1373f0640bf31fea03f7096e0b9137f0",
+            "path": "flan/alcara-v1.jar"
+          }
         }
       ]
     }
