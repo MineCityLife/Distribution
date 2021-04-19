@@ -416,6 +416,17 @@
           }
         },
         {
+          "id": "AudiPack.zip",
+          "name": "AudiPack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 2413728,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/flan/AudiPack.zip",
+            "MD5": "a0c5c28e86b1f42e07b8abed7d282bb7",
+            "path": "flan/AudiPack.zip"
+          }
+        },
+        {
           "id": "Cocos Civil Pack.jar",
           "name": "Cocos Civil Pack.jar",
           "type": "File",
