@@ -427,6 +427,17 @@
           }
         },
         {
+          "id": "BugattiPack.zip",
+          "name": "BugattiPack.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1392104,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/files/flan/BugattiPack.zip",
+            "MD5": "fc1c81902d7c28e59f78d76e6869bf9e",
+            "path": "flan/BugattiPack.zip"
+          }
+        },
+        {
           "id": "Cocos Civil Pack.jar",
           "name": "Cocos Civil Pack.jar",
           "type": "File",
