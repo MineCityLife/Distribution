@@ -236,6 +236,16 @@
           }
         },
         {
+          "id": "generated.forgemod:chisel:1_7_10@jar",
+          "name": "Chisel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6378920,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/Chisel-1_7_10.jar",
+            "MD5": "c76378129307ab7b371bb9b3b8631fce"
+          }
+        },
+        {
           "id": "generated.forgemod:Currency:1.7.10 - 1.2@jar",
           "name": "Currency",
           "type": "ForgeMod",
@@ -423,6 +433,16 @@
             "size": 701951,
             "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/RoadStuff-mc1.7.10-1.0.2.jar",
             "MD5": "6b9c3ac58dee906141a9d033615609d6"
+          }
+        },
+        {
+          "id": "generated.forgemod:secretroomsmod:1.7.10-4.7.1.413@jar",
+          "name": "The SecretRoomsMod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 147210,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/secretroomsmod-1.7.10-4.7.1.413.jar",
+            "MD5": "d04fd9e193ecdce6b020cdb25148691c"
           }
         },
         {
