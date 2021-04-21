@@ -336,6 +336,16 @@
           }
         },
         {
+          "id": "net.malisis.core.asm:malisiscore:1.7.10-0.14.3@jar",
+          "name": "MalisisCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 648081,
+            "url": "https://raw.githubusercontent.com/MineCityLife/Distribution/main/servers/MineCityLifeRP-1.7.10/forgemods/required/malisiscore.jar",
+            "MD5": "58e117a619bb3d729980ce320dca8535"
+          }
+        },
+        {
           "id": "generated.forgemod:MapWriter:2.1.2@jar",
           "name": "MapWriter",
           "type": "ForgeMod",
